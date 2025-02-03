@@ -40,7 +40,7 @@ body {
 }
 
 .rgb-gradient {
-  background: linear-gradient(270deg, #ff0000, #ff00ff, #0000ff, #00ffff, #00ff00, #ffff00);
+  background: linear-gradient(270deg, #ff0000);
   background-size: 1200% 1200%;
   animation: rgb-animation 30s ease infinite;
 }

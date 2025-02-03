@@ -9,7 +9,7 @@ const projects = [
     title: "Echoes of the Past",
     description:
       "A mystery 3D escape room game developed in Unity 3D. Players are transported to a haunted mansion where they must solve puzzles and uncover the secrets of the past to escape. The game features realistic 3D environments, immersive sound design, and challenging puzzles that test players' problem-solving skills.",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/eop.jpg?height=200&width=300",
     tags: ["Unity 3D", "C#", "3D Modeling", "Game Design"],
     link: "https://github.com/yourusername/echoes-of-past",
   },
@@ -17,7 +17,7 @@ const projects = [
     title: "UI Web Design with Figma",
     description:
       "A comprehensive web design project created using Figma. This project showcases a modern, responsive website design for a fictional tech startup. It includes a complete set of UI components, responsive layouts for desktop and mobile, and interactive prototypes demonstrating user flows and animations.",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/NFTs.jpg?height=200&width=300",
     tags: ["Figma", "UI/UX", "Web Design", "Prototyping"],
     link: "https://www.figma.com/file/yourfigmafile",
   },
@@ -25,7 +25,7 @@ const projects = [
     title: "Make My Trip Mobile App Clone",
     description:
       "A Figma-based clone of the popular Make My Trip mobile application. This project demonstrates the ability to reverse-engineer and recreate complex mobile interfaces. It includes a full set of screens for flight, hotel, and holiday package bookings, along with user profiles and booking management interfaces.",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/mmt.jpg?height=200&width=300",
     tags: ["Figma", "Mobile Design", "UI/UX", "App Design"],
     link: "https://www.figma.com/file/yourmakemytripclone",
   },
