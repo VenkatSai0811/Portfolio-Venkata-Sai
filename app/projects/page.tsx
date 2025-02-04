@@ -19,7 +19,7 @@ const projects = [
       "A comprehensive web design project created using Figma. This project showcases a modern, responsive website design for a fictional tech startup. It includes a complete set of UI components, responsive layouts for desktop and mobile, and interactive prototypes demonstrating user flows and animations.",
     image: "/NFTs.jpg?height=200&width=300",
     tags: ["Figma", "UI/UX", "Web Design", "Prototyping"],
-    link: "https://www.figma.com/file/yourfigmafile",
+    link: "https://www.figma.com/proto/SEjTpE03Ye0ylrciVNBLoI/Nft--website?node-id=1-2&t=AF8JaGMXG3eZuwtb-1",
   },
   {
     title: "Make My Trip Mobile App Clone",
@@ -27,7 +27,7 @@ const projects = [
       "A Figma-based clone of the popular Make My Trip mobile application. This project demonstrates the ability to reverse-engineer and recreate complex mobile interfaces. It includes a full set of screens for flight, hotel, and holiday package bookings, along with user profiles and booking management interfaces.",
     image: "/mmt.jpg?height=200&width=300",
     tags: ["Figma", "Mobile Design", "UI/UX", "App Design"],
-    link: "https://www.figma.com/file/yourmakemytripclone",
+    link: "https://www.figma.com/proto/su7gHDxPQ1tVLS22e8Ebsy/MakeMyTrip?node-id=0-1&t=cvmp2U4ZCuePQLmG-1",
   },
 ]
 
